@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
-
+//comentar
 // Opción 1
 int contarVocales(const char *cadena) {
     if (*cadena == '\0') return 0;
